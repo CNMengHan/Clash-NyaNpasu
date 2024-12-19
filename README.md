@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://nyanpasu.elaina.moe/images/banner/nyanpasu_banner.png" alt="Clash Nyanpasu Banner" />
+  <img src="https://github.com/CNMengHan/CNMengHan/blob/main/a08bce64fa7cfcfed2f1954869e56b26.jpg" alt="qwq" />
 </h1>
 
 <h3>Clash Nyanpasu</h3>
